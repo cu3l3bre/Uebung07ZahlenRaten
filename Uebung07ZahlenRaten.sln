@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uebung07ZahlenRaten", "Uebung07ZahlenRaten\Uebung07ZahlenRaten.csproj", "{8445EDB0-7F8D-4BCD-8D2B-591C2AAE01CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8445EDB0-7F8D-4BCD-8D2B-591C2AAE01CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8445EDB0-7F8D-4BCD-8D2B-591C2AAE01CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8445EDB0-7F8D-4BCD-8D2B-591C2AAE01CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8445EDB0-7F8D-4BCD-8D2B-591C2AAE01CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA3F42EB-8B74-4BC1-9AA5-9B2DCA0CC727}
+	EndGlobalSection
+EndGlobal
