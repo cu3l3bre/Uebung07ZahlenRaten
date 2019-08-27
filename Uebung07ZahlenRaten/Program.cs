@@ -16,7 +16,7 @@ namespace Uebung07ZahlenRaten
     {
         static void Main(string[] args)
         {
-            int maxVersuche = 3;
+            int maxVersuche = 7;
             int anzahlVersuche = 0;
             string eingabe = "";
             int zahl = 0;
@@ -66,6 +66,7 @@ namespace Uebung07ZahlenRaten
                 if(anzahlVersuche == maxVersuche)
                 {
                     Console.WriteLine("Keine Versuche mehr! Schade...");
+                    Console.WriteLine("Die gesuchte Zahl war {0}", ausgedachtezahl);
                 }
             }
 
